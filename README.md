@@ -5,5 +5,5 @@ An AI boyfriend powered by llama4
 Go to streamlit cloud:
 [https://aiboyfriend.streamlit.app/](https://aiboyfriend.streamlit.app/)
 
-account:root
+account:root  
 password:root
