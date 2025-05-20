@@ -1,0 +1,3 @@
+groq==0.25.0
+streamlit==1.45.1
+streamlit_cookies_manager==0.2.0
